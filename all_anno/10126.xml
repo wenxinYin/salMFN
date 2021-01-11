@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><annotation>
+<filename>10126.jpg</filename>
+<size>
+<width>900</width>
+<height>900</height>
+<depth>3</depth>
+</size>
+<object>
+<pose>Unknown</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<name>PowerPlant</name>
+<bndbox>
+<xmin>52</xmin>
+<ymin>413</ymin>
+<xmax>490</xmax>
+<ymax>721</ymax>
+</bndbox>
+</object>
+</annotation>
